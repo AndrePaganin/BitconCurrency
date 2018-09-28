@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="frP-Cv-xT8">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="frP-Cv-xT8">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -13,7 +13,7 @@
         <!--View Controller-->
         <scene sceneID="Ul5-7I-PfJ">
             <objects>
-                <viewController id="frP-Cv-xT8" customClass="ViewController" customModule="BitcoinTicker" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="frP-Cv-xT8" customClass="ViewController" customModule="BitcoinCurrency" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="7dI-Qe-J7q"/>
                         <viewControllerLayoutGuide type="bottom" id="50p-ZU-n4x"/>
@@ -88,7 +88,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ThY-Yf-8Mt" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="135" y="86"/>
+            <point key="canvasLocation" x="-55" y="47"/>
         </scene>
     </scenes>
     <resources>
